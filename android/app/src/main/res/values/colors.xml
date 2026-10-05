@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Amoled Black & Neutral Grey Dark Palette -->
+    <color name="bg_black">#121212</color>
+    <color name="card_dark">#181818</color>
+    <color name="card_elevated">#202020</color>
+    <color name="input_bg">#141414</color>
+    <color name="border_subtle">#282828</color>
+    <color name="border_strong">#383838</color>
+    
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#8E8E8E</color>
+    <color name="text_tertiary">#666666</color>
+    
+    <!-- Functional Accents -->
+    <color name="accent_silver">#E0E0E0</color>
+    <color name="success_green">#4ADE80</color>
+    <color name="success_bg">#064E3B</color>
+    <color name="warning_amber">#FBBF24</color>
+    <color name="error_red">#EF4444</color>
+    <color name="error_bg">#7F1D1D</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AcoustiGap</string>
+    <string name="sender_title">Sender</string>
+    <string name="receiver_title">Receiver</string>
+    <string name="diagnostics_title">Diagnostics</string>
+    <string name="settings_title">Settings</string>
+</resources>
